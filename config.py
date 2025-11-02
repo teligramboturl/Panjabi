@@ -2,12 +2,12 @@ import os
 from os import getenv
 
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7050117647:AAFqpi4CwT-6KHa2NXi1xGNbgFVyGViL0QQ")
-API_ID = getenv("API_ID", "26115463")
-API_HASH = getenv("API_HASH", "054557eca362bba15769130a5fadf0de")
-sudo_group = -1002059182424              #us group ki id jha bot ko command doge
-sudo_user = 6631088681                 #user vo jo is bot ko use krega jaise ki tum 
-log_channel = -1002007692604            #permanent jha tum video forward kroge vo channel
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7967676252:AAHSP672_AETyK4M0p2peATwHVv0Y4tZcTY")
+API_ID = getenv("API_ID", "23673651")
+API_HASH = getenv("API_HASH", "f032bfa12ee46e1283f6fb23cfca5c6b")
+sudo_group =  -1003297075670             #us group ki id jha bot ko command doge
+sudo_user =   6677821706               #user vo jo is bot ko use krega jaise ki tum 
+log_channel =  -1002755790239           #permanent jha tum video forward kroge vo channel
 
 
 #Bot ko sab channel/group me admin bna dena  Please  🙏🙏🙏   
